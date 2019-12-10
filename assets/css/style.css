@@ -241,4 +241,7 @@ input[type="submit"] {
   p {
     background: pink;
   }
+  #main-container {
+    width: 300px;
+  }
 }
